@@ -1,0 +1,3 @@
+/Users/macbookpro/Library/Mobile Documents/com~apple~CloudDocs/iRoot/WorkSpace/A_Star/build/CMakeFiles/osm_pathfinding.dir
+/Users/macbookpro/Library/Mobile Documents/com~apple~CloudDocs/iRoot/WorkSpace/A_Star/build/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Library/Mobile Documents/com~apple~CloudDocs/iRoot/WorkSpace/A_Star/build/CMakeFiles/rebuild_cache.dir
