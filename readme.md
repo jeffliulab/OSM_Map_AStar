@@ -11,4 +11,5 @@ osm_pathfinding/
     ├── graph.cpp
     └── visualizer.cpp
 ```
+Demo: (I choose Tufts University to a park aside Mystic River)
 ![demo](readme_files/demo.png)
